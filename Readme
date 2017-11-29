@@ -1,0 +1,10 @@
+// Created by @smrabet
+
+you can run this test using :
+  - intellij IDEA 2016.3.4
+  - windows 10
+  - firefox browser version 47.0.2
+
+ I have designed two separate feature files for each case and two different java file describing the steps for each feature
+ To Run this test Go under test->java->Runner and run TestRunner wich will run all the test tagged by @stable
+ To facilitate the test maintain , I have created two Objest pages wich list all needed element in the web page to interact with
